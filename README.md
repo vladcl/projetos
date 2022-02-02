@@ -3,3 +3,5 @@
 
 Esta é a primeira página criada por mim como exercício final do curso de HTML5 disponibilizado pelo bootcamp da DIO com parceria na Take Web Blip.
 
+Confira neste link:
+https://vladcl.github.io/projetos/
